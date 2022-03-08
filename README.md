@@ -12,7 +12,7 @@ Classification" in TKDE 2022
 
 ## Model Architecture
 
-![image](https://github.com/betterAndTogether/IncreProtoNet/blob/main/model.png)
+![image](https://github.com/betterAndTogether/GAPNM_PubVer/blob/main/model.png)
 
 ## Usage
 The code will be uploaded soon. 
