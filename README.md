@@ -1,4 +1,4 @@
-# Source code of IncreProtoNet Model for Incremental Few-shot Relation Classification
+# Source code of GAPNM Model for Few-shot Relation Classification
 Inplementation of Our paper "Granularity-aware Area Prototypical Network with Bimargin Loss for Few Shot Relation
 Classification" in TKDE 2022
 
